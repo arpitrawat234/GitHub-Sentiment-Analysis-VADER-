@@ -155,8 +155,6 @@ with st.sidebar:
     st.markdown("---")
     run = st.button("🚀  Run Analysis", use_container_width=True)
     st.markdown("---")
-    st.markdown("**Team**")
-    st.markdown("- Arpit Rawat\n- Amit Saini\n- Shubham")
 
 # ─────────────────────────────────────────────────────────────
 # Main — wait for run
