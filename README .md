@@ -50,6 +50,4 @@ Only needs `public_repo` scope.
 
 Python · GitHub REST API · vaderSentiment · pandas · matplotlib · seaborn · Streamlit
 
----
-
-*Arpit Rawat, Amit Saini, Shubham — Sem 6, MAIT 2025-26*
+--
